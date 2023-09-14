@@ -42,3 +42,5 @@ class JsonParser:
 object1 = JsonParser(var)
 object1.check_health()
 object1.print_names()
+
+#new comment
